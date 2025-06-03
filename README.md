@@ -4,7 +4,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 - Processes flow-level CSVs derived from `.pcap` files
 - Automatically labels flows based on known benign/malicious datasets
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 Install Python dependencies:
 ```bash
